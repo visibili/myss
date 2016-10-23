@@ -72,45 +72,45 @@ html, body {
     opacity: 0;
 }
 .slide1 span:nth-child(1){
-    top:1.6rem;
-    left: 1.1rem;
+    top:1.2rem;
+    left: 0.8rem;
     color: blue;
 }
 .slide1 span:nth-child(2){
-    top:2.2rem;
-    left: 1.7rem;
+    top:1.8rem;
+    left: 1.2rem;
     color: red;
     letter-spacing: 0.2rem;
 }
 .slide1 span:nth-child(3){
-    top:2.8rem;
-    left: 1.5rem;
+    top:2.4rem;
+    left: 1.0rem;
     color: purple;
     letter-spacing: 0.2rem;
 }
 .slide1 span:nth-child(4){
-    top:3.4rem;
-    left: 1.15rem;
+    top:3.0rem;
+    left: 0.8rem;
     color: orangered;
 }
 .slide1 span:nth-child(5){
-    top:3.4rem;
-    left: 1.7rem;
+    top:3.0rem;
+    left: 1.3rem;
     color: #007aff;
 }
 .slide1 span:nth-child(6){
-    top:3.4rem;
-    left: 2.25rem;
+    top:3.0rem;
+    left: 1.8rem;
     color: mediumpurple;
 }
 .slide1 span:nth-child(7){
-    top:3.4rem;
-    left: 2.8rem;
+    top:3.0rem;
+    left: 2.3rem;
     color: lightseagreen;
 }
 .slide1 span:nth-child(8){
-    top:4.0rem;
-    left: 1.16rem;
+    top:3.6rem;
+    left: 0.75rem;
     color: lightcoral;
 }
 #page1 span:nth-child(1){
@@ -212,22 +212,22 @@ html, body {
     height: 100%;
 }
 .slide3 span:nth-child(2){
-    top:3.0rem;
+    top:2.1rem;
     left: 0.15rem;
     color: orangered;
 }
 .slide3 span:nth-child(3){
-     top:3.4rem;
+     top:2.5rem;
      left: 0.15rem;
      color: chartreuse;
  }
 .slide3 span:nth-child(4){
-    top:3.8rem;
+    top:2.9rem;
     left: 0.15rem;
     color: darkmagenta;
 }
 #page3 img:nth-child(1){
-    -webkit-animation: InUp 1s linear 0s both;
+    -webkit-animation: zoomInUp 1s linear 0s both;
     animation: zoomInUp 1s linear 0s both;
 }
 #page3 span:nth-child(2){
@@ -247,22 +247,22 @@ html, body {
     height: 100%;
 }
 .slide4 span:nth-child(2){
-    top:1.2rem;
+    top:0.9rem;
     left: 0.15rem;
     color: orange;
 }
 .slide4 span:nth-child(3){
-    top:1.9rem;
+    top:1.6rem;
     left: 0.15rem;
     color: cornflowerblue;
 }
 .slide4 span:nth-child(4){
-    top:2.6rem;
+    top:2.4rem;
     left: 0.15rem;
     color: lightcoral;
 }
 .slide4 span:nth-child(5){
-     top:3.3rem;
+     top:3.2rem;
      left: 0.15rem;
      color: darkgreen;
  }
@@ -272,7 +272,7 @@ html, body {
     color: darkorange;
 }
 .slide4 span:nth-child(7){
-    top:4.5rem;
+    top:4.8rem;
     left: 0.15rem;
     color: darkseagreen;
 }
@@ -354,22 +354,22 @@ html, body {
      height: 100%;
  }
 .slide6 span:nth-child(2){
-    top:1.2rem;
+    top:0.8rem;
     left: 0.15rem;
     color: blue;
 }
 .slide6 span:nth-child(3){
-    top:1.9rem;
+    top:1.6rem;
     left: 0.15rem;
     color: mediumpurple;
 }
 .slide6 span:nth-child(4){
-    top:2.6rem;
+    top:2.4rem;
     left: 0.15rem;
     color: darkgreen;
 }
 .slide6 span:nth-child(5){
-    top:3.3rem;
+    top:3.2rem;
     left: 0.15rem;
     color: yellow;
 }
@@ -379,7 +379,7 @@ html, body {
     color: mediumvioletred;
 }
 .slide6 span:nth-child(7){
-     top:4.4rem;
+     top:4.45rem;
      left: 0.15rem;
      color: orange;
  }
@@ -416,22 +416,22 @@ html, body {
      height: 100%;
  }
 .slide7 span:nth-child(2){
-    top:1.2rem;
+    top:0.8rem;
     left: 0.15rem;
     color: darkgreen;
 }
 .slide7 span:nth-child(3){
-    top:1.9rem;
+    top:1.6rem;
     left: 0.15rem;
     color: chartreuse;
 }
 .slide7 span:nth-child(4){
-    top:2.6rem;
+    top:2.4rem;
     left: 0.15rem;
     color: darkred;
 }
 .slide7 span:nth-child(5){
-    top:3.3rem;
+    top:3.2rem;
     left: 0.15rem;
     color: deepskyblue;
 }
@@ -441,7 +441,7 @@ html, body {
     color: lightskyblue;
 }
 .slide7 span:nth-child(7){
-    top:4.7rem;
+    top:4.8rem;
     left: 0.15rem;
     color: brown;
 }
@@ -478,22 +478,22 @@ html, body {
     height: 100%;
 }
 .slide8 span:nth-child(2){
-    top:1.2rem;
+    top:0.8rem;
     left: 0.15rem;
     color: darkgreen;
 }
 .slide8 span:nth-child(3){
-    top:1.9rem;
+    top:1.6rem;
     left: 0.15rem;
     color: red;
 }
 .slide8 span:nth-child(4){
-    top:2.6rem;
+    top:2.4rem;
     left: 0.15rem;
     color: blue;
 }
 .slide8 span:nth-child(5){
-    top:3.3rem;
+    top:3.2rem;
     left: 0.15rem;
     color: greenyellow;
 }
@@ -517,47 +517,50 @@ html, body {
     -webkit-animation: lightSpeedIn 1s linear 6s both;
     animation: lightSpeedIn 1s linear 6s both;
 }
+.slide9 span{
+    font-size: 20px;
+}
 .slide9 img:nth-child(1){
     width: 100%;
     height: 100%;
 }
 .slide9 span:nth-child(2){
-    top:1.2rem;
+    top:0.8rem;
     left: 0.15rem;
     color: darkgreen;
 }
 .slide9 span:nth-child(3){
-    top:1.7rem;
+    top:1.3rem;
     left: 0.15rem;
     color: orchid;
 }
 .slide9 span:nth-child(4){
-    top:2.2rem;
+    top:1.8rem;
     left: 0.15rem;
     color: darkred;
 }
 .slide9 span:nth-child(5){
-    top:2.7rem;
+    top:2.3rem;
     left: 0.15rem;
     color: darkgreen;
 }
 .slide9 span:nth-child(6){
-    top:3.2rem;
+    top:2.8rem;
     left: 0.15rem;
     color: darkcyan;
 }
 .slide9 span:nth-child(7){
-    top:3.7rem;
+    top:3.3rem;
     left: 0.15rem;
     color: magenta;
 }
 .slide9 span:nth-child(8){
-    top:4.4rem;
+    top:3.8rem;
     left: 0.15rem;
     color: blue;
 }
 .slide9 span:nth-child(9){
-    top:4.9rem;
+    top:4.3rem;
     left: 0.15rem;
     color: yellow;
 }
@@ -602,12 +605,12 @@ html, body {
     height: 100%;
 }
 .slide10 span:nth-child(2){
-    top:1.2rem;
+    top:0.8rem;
     left: 0.15rem;
     color: darkgreen;
 }
 .slide10 span:nth-child(3){
-    top:1.7rem;
+    top:1.6rem;
     left: 0.15rem;
     color: orangered;
 }
@@ -617,12 +620,12 @@ html, body {
     color: blue;
 }
 .slide10 span:nth-child(5){
-    top:2.9rem;
+    top:3.2rem;
     left: 0.15rem;
     color: mediumpurple;
 }
 .slide10 span:nth-child(6){
-    top:3.4rem;
+    top:4rem;
     left: 0.15rem;
     color: magenta;
 }
