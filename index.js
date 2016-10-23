@@ -10,7 +10,7 @@
         return;
     }
     document.documentElement.style.fontSize = n * 100 + "px";
-}(414);
+}(320);
 
 //->Swiper
 var sw = new Swiper(".swiper-container", {
